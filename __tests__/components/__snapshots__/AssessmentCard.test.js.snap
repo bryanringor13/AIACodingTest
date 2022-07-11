@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Assessment Card Component With 99999 points property 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 5,
+        "marginLeft": 5,
+        "marginRight": 10,
+        "marginTop": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 10,
+        "paddingRight": 10,
+        "paddingTop": 10,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "2625": "column",
+          "height": 200,
+          "justifyContent": "space-between",
+          "marginLeft": 5,
+        },
+      ]
+    }
+    width={262.5}
+  >
+    <View>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "marginBottom": 5,
+              "marginTop": 10,
+            },
+          ]
+        }
+      >
+        Advanced Health Screening
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "marginTop": 10,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "width": "60%",
+            },
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "gray",
+              },
+            ]
+          }
+        >
+          Earn up to 
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "rgb(56, 110, 157)",
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                },
+              ]
+            }
+          >
+            99999
+          </Text>
+           pts
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "flex-end",
+              "justifyContent": "flex-end",
+              "width": "40%",
+            },
+          ]
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            Array [
+              Object {
+                "color": "rgb(123,32,76)",
+                "fontSize": 18,
+              },
+              undefined,
+              Object {
+                "fontFamily": "anticon",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              Object {},
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Assessment Card Component Without points property 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 5,
+        "marginLeft": 5,
+        "marginRight": 10,
+        "marginTop": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 10,
+        "paddingRight": 10,
+        "paddingTop": 10,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "2625": "column",
+          "height": 200,
+          "justifyContent": "space-between",
+          "marginLeft": 5,
+        },
+      ]
+    }
+    width={262.5}
+  >
+    <View>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "marginBottom": 5,
+              "marginTop": 10,
+            },
+          ]
+        }
+      >
+        Advanced Health Screening
+      </Text>
+    </View>
+  </View>
+</View>
+`;
